@@ -1,0 +1,52 @@
+body
+{
+  color: white;
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+  font-family: 'Playfair Display', serif;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #snapshot
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#emotion1 ,#emotion2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size: 48px;
+}
+#header
+{
+  font-size: 32px;
+  letter-spacing: 10px;
+  border-radius: 20px;
+}
+label
+{
+  background-color: indigo;
+  padding: 10px;
+  font-size: 18px;
+  border-radius: 10px;
+  background: #ff0000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ff0000, #9932cc); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ff0000, #9932cc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+
+}
+.buttons
+{
+  font-size: 18px;
+}
